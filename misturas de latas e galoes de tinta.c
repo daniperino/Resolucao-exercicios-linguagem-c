@@ -72,25 +72,9 @@ void main(){
 	
 	printf("Valor total da compra de latas e galões é de R$%.2f\n\n", valor_total);
 	
-	
-	
-	
+
 		
 		
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
 
